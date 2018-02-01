@@ -1,0 +1,1 @@
+based on the template created by https://twitter.com/mdo that can be downloaded from https://v4-alpha.getbootstrap.com/examples/cover/
